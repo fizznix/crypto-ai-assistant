@@ -3,6 +3,9 @@
 ## About the App
 This app is designed to create a simple tool-calling agent from scratch. It leverages AI capabilities to interact with various tools and APIs, providing a seamless user experience. The app makes use of tool calling to get the crypto prices from [CoinCap API](https://api.coincap.io/v2/assets).
 
+![image](https://github.com/user-attachments/assets/31bc9ed7-b498-4158-90a9-da338d14cbea)
+
+
 ## Setup
 
 1. **Create a virtual environment:**
@@ -33,6 +36,8 @@ This app is designed to create a simple tool-calling agent from scratch. It leve
    - Update the `.env` file with your configuration.
 
 ## Running the App
+
+There are two flavours of the app
 
 ### Command Line Interface (CLI)
 You can run the app via the CLI using `main.py`:
